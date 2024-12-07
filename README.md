@@ -4,16 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farseen247&label=Profile%20views&color=0e75b6&style=flat" alt="farseen247" /> </p>
 
 
-
 - 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **farseen.ft@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/farseent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/farseent" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/farseen_t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/farseen_t/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/farseen247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/farseen247/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/farseent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farseent" height="30" width="40" /></a>
+<a href="https://instagram.com/farseen_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farseen_t" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/farseen247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farseen247" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farseen247&show_icons=true&locale=en&layout=compact" alt="farseen247" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farseen247&show_icons=true&locale=en" alt="farseen247" /></p>
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farseen247" alt="farseen247" /></a> </p> -->
+
