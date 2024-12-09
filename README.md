@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farseen247&label=Profile%20views&color=0e75b6&style=flat" alt="farseen247" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farseen247" alt="farseen247" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -21,6 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farseen247&show_icons=true&locale=en&layout=compact" alt="farseen247" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farseen247&show_icons=true&locale=en" alt="farseen247" /></p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farseen247" alt="farseen247" /></a> </p> -->
-
